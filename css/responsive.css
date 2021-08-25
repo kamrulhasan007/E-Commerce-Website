@@ -23,6 +23,20 @@ px      68    160    252    */
 		transform: translate(-90%, -50%);
 		margin-right: 20px;
 	}
+	.section1-right h1 {
+		font-family: Roboto;
+	   	font-weight: bold;
+		margin: 0px;
+		line-height: 60px;
+		font-size: 3rem;
+		text-shadow: 2px 2px 10px rgb(0 0 0 / 8%);
+		color: #3d3d4a;
+		text-transform: uppercase;
+		letter-spacing: 28px;
+	}
+	.section1-right h2{
+		font-size: 3rem;
+	}
 	.product-section{
 		top: 800px;
 	}
@@ -60,6 +74,9 @@ px      68    160    252    */
 		height: 100%;
 		object-fit: contain;
 		margin-top: 20px;
+	}
+	.NotificationInput{
+		width: 380px;
 	}
 }
 
